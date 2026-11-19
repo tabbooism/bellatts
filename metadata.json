@@ -1,0 +1,6 @@
+{
+  "name": "VoxForge Studio",
+  "description": "Creator voice studio for custom voice profiles, fast Discord-ready TTS & batch audio exports, real-time streaming DSP conversion, and REST API integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
